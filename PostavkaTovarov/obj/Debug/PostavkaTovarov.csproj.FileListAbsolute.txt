@@ -1,0 +1,140 @@
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe.config
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.pdb
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageLogin.g.cs
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\App.g.cs
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.cache
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.lref
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\App.baml
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageLogin.baml
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.g.resources
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.Properties.Resources.resources
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.exe
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.pdb
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageRegistration.g.cs
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageRegistration.baml
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageAdmin.g.cs
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageUser.g.cs
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageAdmin.baml
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageUser.baml
+C:\Users\student\source\repos\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CopyComplete
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe.config
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.pdb
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageAdmin.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageLogin.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageRegistration.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageUser.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.lref
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\App.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageAdmin.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageLogin.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageRegistration.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageUser.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.g.resources
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.Properties.Resources.resources
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CopyComplete
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.exe
+C:\Users\ASUS\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.pdb
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe.config
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.pdb
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageAdmin.g.cs
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageLogin.g.cs
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageRegistration.g.cs
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageUser.g.cs
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\App.g.cs
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.cache
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.lref
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\App.baml
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageAdmin.baml
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageLogin.baml
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageRegistration.baml
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageUser.baml
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.g.resources
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.Properties.Resources.resources
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.GenerateResource.cache
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CopyComplete
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.exe
+C:\Users\student\Downloads\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.pdb
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe.config
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\PostavkaTovarov.pdb
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.AssemblyReference.cache
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\MainWindow.g.cs
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageAdmin.g.cs
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageLogin.g.cs
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageRegistration.g.cs
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageUser.g.cs
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\App.g.cs
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.cache
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.lref
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\App.baml
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\MainWindow.baml
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageAdmin.baml
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageLogin.baml
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageRegistration.baml
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\pages\PageUser.baml
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.g.resources
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.Properties.Resources.resources
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.GenerateResource.cache
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CoreCompileInputs.cache
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CopyComplete
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.exe
+C:\Users\student.MGOK\Downloads\PostavkaTovarov (2)\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\PostavkaTovarov\obj\Debug\PostavkaTovarov.pdb
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe.config
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\bin\Debug\PostavkaTovarov.exe
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\bin\Debug\PostavkaTovarov.pdb
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\pages\PageAdmin.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\pages\PageLogin.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\pages\PageRegistration.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\pages\PageUser.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov_MarkupCompile.lref
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\App.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\pages\PageAdmin.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\pages\PageLogin.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\pages\PageRegistration.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\pages\PageUser.baml
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.g.resources
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.Properties.Resources.resources
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.csproj.CopyComplete
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.exe
+C:\Users\ASUS\Downloads\PostavkaTovarov (3)\PostavkaTovarov (2)\PostavkaTovarov\obj\Debug\PostavkaTovarov.pdb

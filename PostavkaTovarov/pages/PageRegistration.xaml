@@ -1,0 +1,53 @@
+﻿<Page x:Class="PostavkaTovarov.pages.PageRegistration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PostavkaTovarov.pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="490"
+      Title="PageRegistration">
+
+    <Grid>
+        <TextBlock
+            FontWeight="Bold"
+            FontSize="20"
+            HorizontalAlignment="Center"
+            Margin="0,20,0,0"
+            Text="Регистрация"/>
+        <StackPanel 
+            Width="250"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center">
+            <GroupBox Header="Введите имя">
+                <TextBox
+                    Name="TxbUserName"/>
+            </GroupBox>
+            <GroupBox Header="Введите email">
+                <TextBox
+                    Name="TxbUserEmail"/>
+            </GroupBox>
+            <GroupBox Header="Введите пароль">
+                <PasswordBox
+                    Name="PsbPassword"/>
+            </GroupBox>
+            <GroupBox Header="Ваша роль">
+                <TextBlock
+                    Text="Участник"
+                    Name="TxbRole"/>
+            </GroupBox>
+            <StackPanel
+                HorizontalAlignment="Center"
+                Orientation="Horizontal">
+                <Button 
+                    Name="BtnCreateUser"
+                    Click="BtnCreateUser_Click"
+                    Content="Создать"/>
+                <Button
+                    Name="BtnBack"
+                    Click="BtnBack_Click"
+                    Content="Назад"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
